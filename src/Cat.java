@@ -24,7 +24,7 @@ public class Cat {
         this.name = name;
     }
 
-    protected void printCatsTailColor(){
+    protected void printTailColor() {
         System.out.println(tailColor);
     }
 }
